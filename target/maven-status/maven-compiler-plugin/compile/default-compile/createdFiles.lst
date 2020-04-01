@@ -1,7 +1,0 @@
-br/com/marvastsi/assesment/business/PersonBusinessException.class
-br/com/marvastsi/assesment/model/Person.class
-br/com/marvastsi/assesment/application/DockerConnectMySQL.class
-br/com/marvastsi/assesment/service/PersonService.class
-br/com/marvastsi/assesment/application/Application.class
-br/com/marvastsi/assesment/controller/PersonController.class
-br/com/marvastsi/assesment/repository/PersonRepository.class
